@@ -1,2 +1,2 @@
 # Website project from TheOdinProject
-(Showcases skills attained from HTML/CSS curriculum)
+Showcases skills attained from HTML Foundations Section
