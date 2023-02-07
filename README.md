@@ -1,2 +1,2 @@
-# Website project from TheOdinProject
-Showcases skills attained from HTML Foundations Section
+# Mock Website Project
+A mock recipe website that showcases skills attained from TheOdinProject (HTML Foundations) 
